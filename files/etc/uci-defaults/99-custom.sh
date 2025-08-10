@@ -1,5 +1,6 @@
 #!/bin/sh
-LOGFILE="/tmp/uci-defaults-log.txt"
+LOGFILE="/tmp/upload/uci-defaults-log.txt"
+mkdir -p /tmp/upload/
 echo "Starting 99-custom.sh at $(date)" >>$LOGFILE
 
 # 设置默认防火墙规则，方便虚拟机首次访问 WebUI
