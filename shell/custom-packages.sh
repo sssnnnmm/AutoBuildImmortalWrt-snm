@@ -36,3 +36,5 @@ CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-app-mosdns luci-i18n-mosdns-zh-cn"
 #CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-app-netwizard luci-i18n-netwizard-zh-cn"
 # Lucky大吉 
 CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-app-lucky lucky"
+# snm
+CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-app-socat"
