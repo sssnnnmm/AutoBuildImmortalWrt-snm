@@ -38,4 +38,8 @@ CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-app-mosdns luci-i18n-mosdns-zh-cn"
 CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-app-lucky lucky"
 # snm
 CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-app-socat socat"
+CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-app-ddns luci-i18n-ddns-zh-cn"
 CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-app-upnp luci-i18n-upnp-zh-cn"
+CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-app-smartdns luci-i18n-smartdns-zh-cn"
+CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-app-uhttpd luci-i18n-uhttpd-zh-cn"
+CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-app-usb-printer luci-i18n-usb-printer-zh-cn"
